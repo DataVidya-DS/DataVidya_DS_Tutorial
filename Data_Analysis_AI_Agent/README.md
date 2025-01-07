@@ -1,4 +1,5 @@
 🔍 Intelligent Data Analyst
+
 The Intelligent Data Analyst is a cutting-edge tool built using the Phidata Agent framework and OpenAI's GPT-4o model. Designed for seamless interaction, it empowers users to analyze datasets like CSV and Excel files through intuitive natural language questions. By integrating OpenAI's advanced language capabilities and DuckDB's fast data processing, it eliminates the need for SQL expertise, making data insights more accessible.
 
 Key Highlights
