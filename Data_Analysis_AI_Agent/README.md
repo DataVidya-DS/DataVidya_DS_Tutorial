@@ -34,7 +34,7 @@ Key Highlights
 
 Clone the repository and install the necessary dependencies:
 
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git  
+git clone https://github.com/DataVidya-DS/DataVidya_DS_Tutorial.git
 cd ai_agent_tutorials/ai_data_analysis_agent  
 pip install -r requirements.txt  
 
@@ -54,4 +54,6 @@ streamlit run ai_data_analyst.py
 - Upload your dataset in CSV or Excel format.
 - Ask questions about your dataset using natural language.
 - View the answers, visualizations, and summaries generated.
-- This intelligent assistant bridges the gap between complex data analysis and user-friendly interaction, making it an indispensable tool for anyone working with data.
+
+
+This intelligent assistant bridges the gap between complex data analysis and user-friendly interaction, making it an indispensable tool for anyone working with data.
