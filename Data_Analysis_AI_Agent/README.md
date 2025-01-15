@@ -35,6 +35,7 @@ Key Highlights
 Clone the repository and install the necessary dependencies:
 
 git clone https://github.com/DataVidya-DS/DataVidya_DS_Tutorial.git
+
 cd ai_agent_tutorials/ai_data_analysis_agent  
 pip install -r requirements.txt  
 
